@@ -1,0 +1,15 @@
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\bin\Debug\net6.0\SaberSerialize.exe
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\bin\Debug\net6.0\SaberSerialize.deps.json
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\bin\Debug\net6.0\SaberSerialize.runtimeconfig.json
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\bin\Debug\net6.0\SaberSerialize.dll
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\bin\Debug\net6.0\ref\SaberSerialize.dll
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\bin\Debug\net6.0\SaberSerialize.pdb
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\SaberSerialize.csproj.AssemblyReference.cache
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\SaberSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\SaberSerialize.AssemblyInfoInputs.cache
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\SaberSerialize.AssemblyInfo.cs
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\SaberSerialize.csproj.CoreCompileInputs.cache
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\SaberSerialize.dll
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\ref\SaberSerialize.dll
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\SaberSerialize.pdb
+C:\Users\John\RiderProjects\SaberSerialize\SaberSerialize\obj\Debug\net6.0\SaberSerialize.genruntimeconfig.cache

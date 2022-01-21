@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeSolution", "SerializeSolution\SerializeSolution.csproj", "{EDF0FACD-1D57-4C9F-85F7-D4BB193ED289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaberSerializeTest", "SaberSerializeTest\SaberSerializeTest.csproj", "{11093BD5-3662-4DF4-816C-53DBE8E1F518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF0FACD-1D57-4C9F-85F7-D4BB193ED289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF0FACD-1D57-4C9F-85F7-D4BB193ED289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF0FACD-1D57-4C9F-85F7-D4BB193ED289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF0FACD-1D57-4C9F-85F7-D4BB193ED289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11093BD5-3662-4DF4-816C-53DBE8E1F518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11093BD5-3662-4DF4-816C-53DBE8E1F518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11093BD5-3662-4DF4-816C-53DBE8E1F518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11093BD5-3662-4DF4-816C-53DBE8E1F518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

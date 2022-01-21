@@ -1,0 +1,15 @@
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\bin\Debug\net6.0\SerializeSolution.exe
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\bin\Debug\net6.0\SerializeSolution.deps.json
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\bin\Debug\net6.0\SerializeSolution.runtimeconfig.json
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\bin\Debug\net6.0\SerializeSolution.dll
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\bin\Debug\net6.0\ref\SerializeSolution.dll
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\bin\Debug\net6.0\SerializeSolution.pdb
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\SerializeSolution.csproj.AssemblyReference.cache
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\SerializeSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\SerializeSolution.AssemblyInfoInputs.cache
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\SerializeSolution.AssemblyInfo.cs
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\SerializeSolution.csproj.CoreCompileInputs.cache
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\SerializeSolution.dll
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\ref\SerializeSolution.dll
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\SerializeSolution.pdb
+C:\Users\John\RiderProjects\SaberSerialize\SerializeSolution\obj\Debug\net6.0\SerializeSolution.genruntimeconfig.cache
